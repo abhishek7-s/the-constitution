@@ -135,10 +135,10 @@ function Home() {
       <div className="space-y-4">
         <h3 className="text-2xl font-bold text-white">Quick Links</h3>
         <ul className="space-y-2">
-          <li><a href="#home" className="text-gray-200 hover:text-gray-300 transition-colors duration-300">Home</a></li>
-          <li><a href="#features" className="text-gray-200 hover:text-gray-300 transition-colors duration-300">Features</a></li>
-          <li><a href="#about" className="text-gray-200 hover:text-gray-300 transition-colors duration-300">About</a></li>
-          <li><a href="#contact" className="text-gray-200 hover:text-gray-300 transition-colors duration-300">Contact</a></li>
+          <li><a href="#home" className="text-gray-300 hover:text-gray-300 transition-colors duration-300">Home</a></li>
+          <li><a href="#features" className="text-gray-300 hover:text-gray-300 transition-colors duration-300">Features</a></li>
+          <li><a href="#about" className="text-gray-300 hover:text-gray-300 transition-colors duration-300">About</a></li>
+          <li><a href="#contact" className="text-gray-300 hover:text-gray-300 transition-colors duration-300">Contact</a></li>
         </ul>
       </div>
 
@@ -157,7 +157,7 @@ function Home() {
               <path d="M19.633 7.997c.013.176.013.351.013.527 0 5.365-4.084 11.552-11.552 11.552-2.29 0-4.415-.668-6.202-1.81.317.038.625.05.952.05 1.897 0 3.646-.643 5.04-1.726-1.773-.038-3.272-1.203-3.792-2.812.246.038.483.063.737.063.353 0 .717-.05 1.048-.137-1.853-.372-3.248-2.012-3.248-3.973v-.05c.54.302 1.166.484 1.832.508a3.953 3.953 0 01-1.76-3.29c0-.732.194-1.404.54-1.988 1.974 2.435 4.924 4.02 8.255 4.188-.062-.293-.101-.598-.101-.916 0-2.204 1.794-3.997 3.997-3.997 1.153 0 2.195.487 2.926 1.263a7.82 7.82 0 002.532-.964 4.023 4.023 0 01-1.755 2.212 7.923 7.923 0 002.266-.621c-.566.884-1.285 1.653-2.105 2.27z" />
             </svg>
           </a>
-          <a href="#" className="text-white hover:text-gray-300 transition-colors duration-300">
+          <a href="#" className="text-white hover:text-gray-400 transition-colors duration-300">
             <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
               <path d="M12 2.163c6.633 0 12 5.368 12 12 0 6.632-5.367 12-12 12-6.633 0-12-5.368-12-12 0-6.632 5.367-12 12-12zm0 1.689a10.311 10.311 0 100 20.622 10.311 10.311 0 000-20.622zm0 2.438c1.16 0 2.103.942 2.103 2.103S13.16 8.497 12 8.497s-2.103-.943-2.103-2.103S10.84 6.29 12 6.29zm0 10.5a4.773 4.773 0 014.773 4.773H7.227a4.773 4.773 0 014.773-4.773z" />
             </svg>
